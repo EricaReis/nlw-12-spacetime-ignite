@@ -35,6 +35,7 @@ export default function App() {
         position: 'absolute', left: '-100%'
       }
     }>
+      
       <StyledStripes className='absolute left-2' />
 
       <View className='flex-1 items-center justify-center gap-6'>
